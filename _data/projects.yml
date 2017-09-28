@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# Instituto Rope's system
+- project: Instituto Rope's system
+  role: Developer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/rbosisio/k21-academy-rope"
+  description: System made with Django and Angular 2 in five days. It was part of K21 Academy with the purpose of helping the Instituto Rope.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+#The horrible smell that came from guanabara bay
+- project: The horrible smell that came from guanabara bay
+  role: Developer & Game Designer
+  # duration: 2007 &mdash; Present
+  url: "https://gamejolt.com/games/the-horrible-smell-that-came-from-guanabara-bay/80576"
+  description: A game where you are a stranded dude in a tiny island surrounded by mutant zombie fish

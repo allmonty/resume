@@ -73,10 +73,27 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  <!--&bull; {{ project.duration }}--></h4>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
+
+      </section>
+      <!-- end Projects -->
+      {% endif %}
+
+      {% if site.resume_section_certifications %}
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        <ul>
+        {% for certification in site.data.certifications %}
+          <h4 class="resume-item-title" itemprop="name">{% if certification.url %}<a href="{{ certification.url }}" itemprop="url">{{ certification.certification }}</a>{% else %}{{ certification.certification }}{% endif %}</h4>
+        {% endfor %}
+        <ul>
 
       </section>
       <!-- end Projects -->
@@ -117,6 +134,23 @@
         {% endfor %}
       </section>
       <!-- end Education -->
+      {% endif %}
+
+      {% if site.resume_section_languages %}
+      <!-- begin Languages -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Languages</h2>
+        </header>
+
+        {% for language in site.data.languages %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <p class="resume-item-copy"><b>{{ language.language }}</b> : {{ language.level }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Languages -->
       {% endif %}
 
       {% if site.resume_section_recognition %}

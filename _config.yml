@@ -22,11 +22,13 @@ resume_header_intro: "<p>I am a developer and Agile enthusiast.<br>I had some ex
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
+resume_section_certifications:  true
 resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
+resume_section_languages:    true
 # resume_section_interests:       true
 
 # Resume social links
