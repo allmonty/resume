@@ -2,23 +2,35 @@
 # Knowledge21
 - company: Knowledge21
   position: Web Development Intern
+  position_pt: Estagiário em Desenvolvimento Web
   duration: Oct, 2016 &mdash; Oct, 2017
+  duration_pt: Out, 2016 &mdash; Out, 2017
   summary: Developed and maintained web applications and sites. Handled with front and back end (using Java, AngularJS, Wordpress and MySQL).
+  summary_pt: Desenvolvimento e manutenção de aplicações web e sites. Lidando com front e back end (usando Java, AngularJS, Wordpress e MySQL)
 
 # Radix
 - company: Radix Engenharia e Software
   position: Web Development Intern
+  position_pt: Estagiário em Desenvolvimento Web
   duration:  May, 2016 &mdash; Jul, 2016
+  duration_pt:  Mai, 2016 &mdash; Jul, 2016
   summary: Developed and maintained web applications (using C#.Net).
+  summary_pt: Desenvolvimento e manutenção de aplicações web (usando C#.Net).
 
 # GDP - UFRJ
 - company: GDP - UFRJ
   position: Member
+  position_pt: Membro
   duration:   Aug, 2012  &mdash; Jun, 2016
+  duration_pt:   Ago, 2012  &mdash; Jun, 2016
   summary: Worked on game programming (primarily using Unity3D), ministrated open classes and helped in the group organization.<br>GDP is an extension group formed by students at UFRJ focused on research and development of games.
+  summary_pt: Programação de jogos (principalmente com Unity3D), participação na organização do grupo e ministração de aulas abertas.<br>GDP é um grupo de extensão formado por alunos da UFRJ focado em pesquisa e desenvolvimento de jogos.
 
 # COPPE - UFRJ
 - company: COPPE - UFRJ
   position: Development Intern
+  position_pt: Estagiário de desenvolvimento
   duration:   Oct, 2014  &mdash; May, 2015
+  duration_pt:   Out, 2014  &mdash; Mai, 2015
   summary: Worked with game development (using C# and Unity3D) and analysis of video games' quality attributes.
+  summary_pt: Desenvolvimento de jogos (usando C# e Unity3D) e analise de atributos de qualidade de jogos.
