@@ -1,6 +1,9 @@
 # Certifications
 # uncomment the urls if you wish to display them, and add your own URL
 
+- certification: Git Path
+  url: "https://www.codeschool.com/users/allmonty"
+
 - certification: Lean Kanban KMP Foundation I
   url: "http://edu.leankanban.com/users/allanbrados"
 
