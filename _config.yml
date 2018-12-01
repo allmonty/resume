@@ -17,8 +17,12 @@ resume_contact_email:           "allanbrados@gmail.com"
 resume_contact_telephone:       "+55 21 98222-8876"
 resume_contact_address:         "Rio de Janeiro, RJ"
 resume_header_contact_info: "Rio de Janeiro, RJ | +55 21 98222-8876 | allanbrados@gmail.com"
-resume_header_intro_en: "<p>I am a developer and Agile enthusiast.<br>I had some experiences programming for front-end, back-end and even a few games. During which I was able to live, fail and learn from Agile.</p>"
-resume_header_intro_pt: "<p>Sou um desenvolvedor e entusiasta de Ágil.<br> Eu tive algumas experiências programando para front-end, back-end e até alguns jogos. Durante as quais fui capaz de vivenciar, falhar e aprender Ágil.</p>"
+resume_header_intro_en: "<p>I have great interest in software development, game programming and agile.
+I had some experiences programming for front-end, back-end and even a few games.
+Worked both with functional and object-oriented languages</p>"
+resume_header_intro_pt: "<p>Eu tenho grande interesse em desenvolvimento de software, programação de jogos e ágil.
+Tive algumas experiências programando para front-end, back-end e até alguns jogos.
+Trabalhei com linguages orientadas a objeto e funcionais</p>"
 
 # Decide which sections to use
 # comment out to hide
