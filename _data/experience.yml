@@ -5,7 +5,10 @@
   position_pt: Desenvolvedor de software
   duration: Mar, 2018 &mdash; Nov, 2018
   duration_pt: Mar, 2018 &mdash; Nov, 2018
-  summary: Back-end development of banking services using functional programming with Elixir.
+  summary: "Back-end development of banking services using mainly functional programming.<br>
+  Contributed to the design and development of two applications in an Agile environment.
+  One of them, made fully in elixir, was responsible for the communication in XML with an external system.
+  The other was divided into two parts, one in Elixir that registered and managed payments and communicated with the other one, made in Python, that was responsible for the communication in SOAP with another external system."
   summary_pt: Desenvolvimento back-end de serviços bancários utilizando programação funcional com Elixir.
 
 # Knowledge21
@@ -14,7 +17,8 @@
   position_pt: Estagiário em Desenvolvimento Web
   duration: Oct, 2016 &mdash; Oct, 2017
   duration_pt: Out, 2016 &mdash; Out, 2017
-  summary: Developed and maintained web applications and sites. Handled with front and back end (using Java, AngularJS, Wordpress and MySQL).
+  summary: "Developed and maintained web applications and sites in an Agile team.<br>
+  Handled with front and back end (using Java, AngularJS, Wordpress and MySQL) to maintain the company's site and back-office application."
   summary_pt: Desenvolvimento e manutenção de aplicações web e sites. Lidando com front e back end (usando Java, AngularJS, Wordpress e MySQL).
 
 # GDP - UFRJ
@@ -23,5 +27,6 @@
   position_pt: Membro
   duration:   Aug, 2012  &mdash; Jun, 2016
   duration_pt:   Ago, 2012  &mdash; Jun, 2016
-  summary: Worked on game programming (primarily using Unity3D), ministrated open classes and helped in the group organization.<br>GDP is an extension group formed by students at UFRJ focused on research and development of games.
+  summary: "GDP is an extension group formed by students at UFRJ focused on research and development of games.<br>
+  Worked on game programming (primarily using Unity3D and C#), ministrated free open classes and contributed to the group organization."
   summary_pt: Programação de jogos (principalmente com Unity3D), participação na organização do grupo e ministração de aulas abertas.<br>GDP é um grupo de extensão formado por alunos da UFRJ focado em pesquisa e desenvolvimento de jogos.
