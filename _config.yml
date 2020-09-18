@@ -11,8 +11,8 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Allan Monteiro David"
-resume_title_en:                   "Developer"
-resume_title_pt:                   "Desenvolvedor"
+resume_title_en:                   "Software Engineer"
+resume_title_pt:                   "Engenheiro de Software"
 resume_contact_email:           "allanbrados@gmail.com"
 resume_contact_telephone:       "+55 21 98222-8876"
 resume_contact_address:         "Rio de Janeiro, RJ"
