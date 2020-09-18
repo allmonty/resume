@@ -1,15 +1,22 @@
 # Jobs
+
+# Nubank
+- company: Nubank
+  position: Software Engineer
+  position_pt: Engenheiro de Software
+  duration: Jun, 2019 &mdash; Today
+  duration_pt: Jun, 2019 &mdash; Hoje
+  summary: "Development of scalable solutions for payment services using mainly functional programming. Stack: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+  summary_pt: "Desenvolvimento de soluções escaláveis para serviços de pagamentos usando principalmente programação funcional. Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+
 # Stone Payments
 - company: Stone Payments
   position: Software Developer
   position_pt: Desenvolvedor de software
   duration: Mar, 2018 &mdash; Nov, 2018
   duration_pt: Mar, 2018 &mdash; Nov, 2018
-  summary: "Back-end development of banking services using mainly functional programming.<br>
-  Contributed to the design and development of two applications in an Agile environment.
-  One of them, made fully in elixir, was responsible for the communication in XML with an external system.
-  The other was divided into two parts, one in Elixir that registered and managed payments and communicated with the other one, made in Python, that was responsible for the communication in SOAP with another external system."
-  summary_pt: Desenvolvimento back-end de serviços bancários utilizando programação funcional com Elixir.
+  summary: "Back-end development of banking services using mainly functional programming. I contributed to the design and development of two applications. The first, made with Elixir, was responsible for money transfers and communicated with a third-party using XML. The other was composed of two services, one in Elixir that registered and managed payments and the other one in Python that was responsible for the communication layer with another third-party using SOAP."
+  summary_pt: "Desenvolvimento back-end de serviços bancários usando principalmente programação funcional. Contribuí para o design e desenvolvimento de duas aplicações.A primeira, feita com Elixir, era responsável por transferência de dinheiro e se comunicava com um third-party usando XML. A outra era composta por dois serviços, um em Elixir que registrava e gerenciava pagamentos de boleto e a outra em Python que era responsável pela camada de comunicação com outro third-party usando SOAP."
 
 # Knowledge21
 - company: Knowledge21
@@ -17,9 +24,8 @@
   position_pt: Estagiário em Desenvolvimento Web
   duration: Oct, 2016 &mdash; Oct, 2017
   duration_pt: Out, 2016 &mdash; Out, 2017
-  summary: "Developed and maintained web applications and sites in an Agile team.<br>
-  Handled with front and back end (using Java, AngularJS, Wordpress and MySQL) to maintain the company's site and back-office application."
-  summary_pt: Desenvolvimento e manutenção de aplicações web e sites. Lidando com front e back end (usando Java, AngularJS, Wordpress e MySQL).
+  summary: "Full-Stack Development using Java, AngularJS, Wordpress and MySQL of the company's site and back-office application."
+  summary_pt: "Desenvolvimento Full-Stack usando Java, AngularJS, Wordpress e MySQL do site da empresa e de aplicações back-office."
 
 # GDP - UFRJ
 - company: GDP - UFRJ
@@ -27,6 +33,5 @@
   position_pt: Membro
   duration:   Aug, 2012  &mdash; Jun, 2016
   duration_pt:   Ago, 2012  &mdash; Jun, 2016
-  summary: "GDP is an extension group formed by students at UFRJ focused on research and development of games.<br>
-  Worked on game programming (primarily using Unity3D and C#), ministrated free open classes and contributed to the group organization."
-  summary_pt: Programação de jogos (principalmente com Unity3D), participação na organização do grupo e ministração de aulas abertas.<br>GDP é um grupo de extensão formado por alunos da UFRJ focado em pesquisa e desenvolvimento de jogos.
+  summary: "GDP is an extension group formed by students at UFRJ focused on research and development of games. Worked on game programming (primarily using Unity3D), ministered open classes, and helped in the group organization."
+  summary_pt: "Desenvolvimento de jogos (principalmente com Unity3D), participação na organização do grupo e ministração de aulas abertas. GDP é um grupo de extensão formado por alunos da UFRJ focado em pesquisa e desenvolvimento de jogos."
