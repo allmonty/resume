@@ -6,8 +6,12 @@
   position_pt: Engenheiro de Software
   duration: Jun, 2019 &mdash; Today
   duration_pt: Jun, 2019 &mdash; Hoje
-  summary: "Development of scalable solutions for payment services using mainly functional programming. Stack: Clojure, Kafka, DynamoDB, Datomic, Flutter"
-  summary_pt: "Desenvolvimento de soluções escaláveis para serviços de pagamentos usando principalmente programação funcional. Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+  summary: "I am working on the development of banking applications.
+<br>- Improved the payment solution for slips, focusing on stability and monitoring.
+<br>Technologies: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+  summary_pt: "Trabalhando no desenvolvimento de aplicações bancárias.
+<br>- Melhorei a solução de pagamentos de boletos, com foco em estabilidade e monitoramento.
+<br>Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
 
 # Stone Payments
 - company: Stone Payments
@@ -15,8 +19,12 @@
   position_pt: Desenvolvedor de software
   duration: Mar, 2018 &mdash; Nov, 2018
   duration_pt: Mar, 2018 &mdash; Nov, 2018
-  summary: "Back-end development of banking services using mainly functional programming. I contributed to the design and development of two applications. The first, made with Elixir, was responsible for money transfers and communicated with a third-party using XML. The other was composed of two services, one in Elixir that registered and managed payments and the other one in Python that was responsible for the communication layer with another third-party using SOAP."
-  summary_pt: "Desenvolvimento back-end de serviços bancários usando principalmente programação funcional. Contribuí para o design e desenvolvimento de duas aplicações.A primeira, feita com Elixir, era responsável por transferência de dinheiro e se comunicava com um third-party usando XML. A outra era composta por dois serviços, um em Elixir que registrava e gerenciava pagamentos de boleto e a outra em Python que era responsável pela camada de comunicação com outro third-party usando SOAP."
+  summary: "I worked on the creation and development of bank transfers and barcode payments solutions.
+<br>- The transfers service, made using Elixir, communicated with a third-party using XML.
+<br>- The barcode payments solution was composed of two services. One made using Elixir and the other Python. The last one integrated with a third-party using SOAP."
+  summary_pt: "Trabalhei na criação e desenvolvimento das aplicações responsáveis pelas transferências bancárias e pagamentos de boletos.
+<br>- O serviço de transferências foi feito em Elixir e integrava com um third-party usando XML.
+<br>- O pagamento de boletos foi feito com um serviço em Elixir e outro em Python que se integrava com um third-party usando SOAP."
 
 # Knowledge21
 - company: Knowledge21
@@ -24,8 +32,10 @@
   position_pt: Estagiário em Desenvolvimento Web
   duration: Oct, 2016 &mdash; Oct, 2017
   duration_pt: Out, 2016 &mdash; Out, 2017
-  summary: "Full-Stack Development using Java, AngularJS, Wordpress and MySQL of the company's site and back-office application."
-  summary_pt: "Desenvolvimento Full-Stack usando Java, AngularJS, Wordpress e MySQL do site da empresa e de aplicações back-office."
+  summary: "I worked on the development of the website and back-office application for payment and class management.
+  <br>Technologies: Java, AngularJS, WordPress, and MySQL."
+  summary_pt: "Trabalhei no desenvolvimento do site e da aplicação back-office de gerenciamento de pagamentos e turmas.
+  <br>Tecnologias: Java, AngularJS, WordPress e MySQL."
 
 # GDP - UFRJ
 - company: GDP - UFRJ
