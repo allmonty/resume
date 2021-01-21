@@ -2,10 +2,18 @@
 
 # Nubank
 - company: Nubank
+  position: Senior Software Engineer
+  position_pt: Engenheiro de Software Sênior
+  duration: Jan, 2021 &mdash; Today
+  duration_pt: Jan, 2021 &mdash; Hoje
+  summary: ""
+  summary_pt: ""
+
+- company: Nubank
   position: Software Engineer
   position_pt: Engenheiro de Software
-  duration: Jun, 2019 &mdash; Today
-  duration_pt: Jun, 2019 &mdash; Hoje
+  duration: Jun, 2019 &mdash; Dec, 2020
+  duration_pt: Jun, 2019 &mdash; Dez, 2020
   summary: "I am working on the development of banking applications.
 <br>- Improved the payment solution for slips, focusing on stability and monitoring.
 <br>Technologies: Clojure, Kafka, DynamoDB, Datomic, Flutter"
