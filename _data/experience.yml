@@ -4,22 +4,20 @@
 - company: Nubank
   position: Senior Software Engineer
   position_pt: Engenheiro de Software Sênior
-  duration: Jan, 2021 &mdash; Today
-  duration_pt: Jan, 2021 &mdash; Hoje
-  summary: ""
-  summary_pt: ""
+  duration: Jan, 2021 &mdash; Mar, 2022
+  duration_pt: Jan, 2021 &mdash; Mar, 2022
+  summary: "Worked on the architecture and development of the automatic debit solution and the commitments platform."
+  summary_pt: "Trabalhei na arquitetura e desenvolvimento da solução de débito automático e da plataforma de compromissos."
 
 - company: Nubank
   position: Software Engineer
   position_pt: Engenheiro de Software
   duration: Jun, 2019 &mdash; Dec, 2020
   duration_pt: Jun, 2019 &mdash; Dez, 2020
-  summary: "I am working on the development of banking applications.
-<br>- Improved the payment solution for slips, focusing on stability and monitoring.
-<br>Technologies: Clojure, Kafka, DynamoDB, Datomic, Flutter"
-  summary_pt: "Trabalhando no desenvolvimento de aplicações bancárias.
-<br>- Melhorei a solução de pagamentos de boletos, com foco em estabilidade e monitoramento.
-<br>Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+  summary: "Improved the invoice payment solution, focusing on scalability, stability and monitoring.
+  <br>Technologies: Clojure, Kafka, DynamoDB, Datomic, Flutter"
+  summary_pt: "Melhorei a solução de pagamentos de boletos, com foco em escalabilidade, estabilidade e monitoramento.
+  <br>Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
 
 # Stone Payments
 - company: Stone Payments
