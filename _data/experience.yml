@@ -3,51 +3,32 @@
 # Nubank
 - company: Nubank
   position: Senior Software Engineer
-  position_pt: Engenheiro de Software Sênior
   duration: Jan, 2021 &mdash; Mar, 2022
-  duration_pt: Jan, 2021 &mdash; Mar, 2022
   summary: "Worked on the architecture and development of the automatic debit solution and the commitments platform."
-  summary_pt: "Trabalhei na arquitetura e desenvolvimento da solução de débito automático e da plataforma de compromissos."
-
+ 
 - company: Nubank
   position: Software Engineer
-  position_pt: Engenheiro de Software
   duration: Jun, 2019 &mdash; Dec, 2020
-  duration_pt: Jun, 2019 &mdash; Dez, 2020
   summary: "Improved the invoice payment solution, focusing on scalability, stability and monitoring.
   <br>Technologies: Clojure, Kafka, DynamoDB, Datomic, Flutter"
-  summary_pt: "Melhorei a solução de pagamentos de boletos, com foco em escalabilidade, estabilidade e monitoramento.
-  <br>Tecnologias: Clojure, Kafka, DynamoDB, Datomic, Flutter"
 
 # Stone Payments
 - company: Stone Payments
   position: Software Developer
-  position_pt: Desenvolvedor de software
   duration: Mar, 2018 &mdash; Nov, 2018
-  duration_pt: Mar, 2018 &mdash; Nov, 2018
   summary: "I worked on the creation and development of bank transfers and barcode payments solutions.
 <br>- The transfers service, made using Elixir, communicated with a third-party using XML.
 <br>- The barcode payments solution was composed of two services. One made using Elixir and the other Python. The last one integrated with a third-party using SOAP."
-  summary_pt: "Trabalhei na criação e desenvolvimento das aplicações responsáveis pelas transferências bancárias e pagamentos de boletos.
-<br>- O serviço de transferências foi feito em Elixir e integrava com um third-party usando XML.
-<br>- O pagamento de boletos foi feito com um serviço em Elixir e outro em Python que se integrava com um third-party usando SOAP."
 
 # Knowledge21
 - company: Knowledge21
   position: Web Development Intern
-  position_pt: Estagiário em Desenvolvimento Web
   duration: Oct, 2016 &mdash; Oct, 2017
-  duration_pt: Out, 2016 &mdash; Out, 2017
   summary: "I worked on the development of the website and back-office application for payment and class management.
   <br>Technologies: Java, AngularJS, WordPress, and MySQL."
-  summary_pt: "Trabalhei no desenvolvimento do site e da aplicação back-office de gerenciamento de pagamentos e turmas.
-  <br>Tecnologias: Java, AngularJS, WordPress e MySQL."
 
 # GDP - UFRJ
 - company: GDP - UFRJ
   position: Member
-  position_pt: Membro
   duration:   Aug, 2012  &mdash; Jun, 2016
-  duration_pt:   Ago, 2012  &mdash; Jun, 2016
   summary: "GDP is an extension group formed by students at UFRJ focused on research and development of games. Worked on game programming (primarily using Unity3D), ministered open classes, and helped in the group organization."
-  summary_pt: "Desenvolvimento de jogos (principalmente com Unity3D), participação na organização do grupo e ministração de aulas abertas. GDP é um grupo de extensão formado por alunos da UFRJ focado em pesquisa e desenvolvimento de jogos."

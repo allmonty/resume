@@ -3,21 +3,15 @@
 
 # Instituto Rope's system
 - project: Instituto Rope's system
-  project_pt: Sistema para o Instituto Rope
   role: Developer
-  role_pt: Desenvolvedor
   # duration: 2012 &mdash; Present
   url: "https://github.com/rbosisio/k21-academy-rope"
   description: "System made with Django and Angular 2 in five days using Agile principles.<br>
   It was part of K21 Academy with the purpose of helping the Instituto Rope."
-  description_pt: Sistema feito usando Django e Angular 2 em cinco dias. Foi parte do K21 Academy com objetivo de ajudar o Instituto Rope.
 
 #The horrible smell that came from guanabara bay
 - project: The horrible smell that came from guanabara bay
-  project_pt: The horrible smell that came from guanabara bay
   role: Developer & Game Designer
-  role_pt: Desenvolvedor e Game Designer
   # duration: 2007 &mdash; Present
   url: "https://gamejolt.com/games/the-horrible-smell-that-came-from-guanabara-bay/80576"
   description: A game where you are a stranded dude in a tiny island surrounded by mutant zombie fish
-  description_pt: Um jogo onde você é um homem perdido em uma pequena ilha cheia de peixes mutantes zumbis.
